@@ -1,0 +1,29 @@
+
+body{background-color: rgba(200, 255, 0, 0.258);
+
+}
+th td{
+    padding: 10px;/*relleno dentro de las celdas*/
+   text-align: left;/*alinea el texto a la izquierda*/
+    background-color: brown;
+border: 10px solid black;/*FONDO  para el encabezado*/
+
+
+}
+th{background-color: rgb(255, 202, 127);
+color: aliceblue;
+}
+tr:hover{ 
+    background-color: rgb(196, 236, 255); /*Cambia el fondo de las caldas al pasar el mouse*/
+}
+table{margin: 0%auto;}
+
+table,
+th,
+td{
+   border: 1px solid black; 
+}
+
+img{
+    width: 350px ;
+}
